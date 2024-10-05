@@ -30,7 +30,7 @@ For more information please visit the website at <https://startbootstrap.com>.
 - [**Full Width Pics**](https://startbootstrap.com/templates/full-width-pics/) - Full width picture backgrounds.
 - [**Heroic Features**](https://startbootstrap.com/templates/heroic-features/) - A basic Bootstrap home page template.
 - [**Modern Business**](https://startbootstrap.com/templates/modern-business/) - A multipurpose website template.
-- [**SB Admin**](https://startbootstrap.com/templates/sb-admin/) - A free Bootstrap admin template.
+- [**SB Admin**](https://github.com/startbootstrap/startbootstrap-sb-admin) - A free Bootstrap admin template.
 - [**Scrolling Nav**](https://startbootstrap.com/templates/scrolling-nav/) - A scrolling navigation template.
 - [**Shop Homepage**](https://startbootstrap.com/templates/shop-homepage/) - An online store homepage template.
 - [**Shop Item**](https://startbootstrap.com/templates/shop-item/) - An online store item template.
